@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 # 🍀H's GitHub!🍀
 
 ### Hi🙋‍♂️ 
+> ## My Infomations
 * Jeon Hyeon Soo
 * INHA University 17
 * Economics & Computer Science Engineering
