@@ -20,7 +20,7 @@ Welcome my Github page
 
 > ## Skills
 
-<img alt="C++" src = "https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src = "https://img.shields.io/badge/Java-E53232.svg?&style=flat&logo=java&logoColor=white"/> <img alt="Python" src = "https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>  
+<img alt="C++" src = "https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src = "https://img.shields.io/badge/Java-E53232.svg?&style=flat&logo=java&logoColor=white"/> <img alt="Python" src = "https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/> <img alt="Android" src = "https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=android&logoColor=white"/>  
 
 <img alt="Git" src = "https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/> <img alt="GitHub" src = "https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white"/>  
 
