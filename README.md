@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi🙋‍♂️  
 Welcome my Github page  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyeonSoo-Jeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyeonSoo-Jeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > ## My Infomations
