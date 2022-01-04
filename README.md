@@ -32,7 +32,7 @@
 
 > ## Etc..
 > <img alt="instagram" src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_hansthoo_offaicial/"/></br>
-> * <https://www.instagram.com/_hansthoo_offaicial/>
+> * <https://www.instagram.com/_hansthoo_official/>
 
 > <img alt="Email" src = "https://img.shields.io/badge/Email-FFFF09.svg?&style=flat&logo=gmail&logoColor=0D0D0D&link=sop369@kakao.com"/></br>
 >* <sop369@kakao.com>  
