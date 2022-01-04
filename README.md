@@ -1,13 +1,16 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=H's%20Code&fontSize=100&animation=fadeIn&fontAlignY=38&desc=Welcome%20My%20GitHub%20Profile%20Page!&descAlignY=51&descAlign=62)
+<!-- <p align='center'> Welcome my Github page! /p> -->
+<!-- <p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
+ -->
 
-
-<!---
-HyeonDeul/HyeonDeul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 🍀H's GitHub!🍀
-
-### Hi🙋‍♂️  
-Welcome my Github page  
+### 🍀My status🍀  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyeonSoo-Jeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,10 +31,10 @@ Welcome my Github page
 > <https://joinmycode.tistory.com/>  
 
 > ## Etc..
-> <img alt="instagram" src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white"/></br>
+> <img alt="instagram" src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_hansthoo_offaicial/"/></br>
 > * <https://www.instagram.com/_hansthoo_offaicial/>
 
-> <img alt="Email" src = "https://img.shields.io/badge/Email-FFFF09.svg?&style=flat&logo=gmail&logoColor=0D0D0D"/></br>
+> <img alt="Email" src = "https://img.shields.io/badge/Email-FFFF09.svg?&style=flat&logo=gmail&logoColor=0D0D0D&link=sop369@kakao.com"/></br>
 >* <sop369@kakao.com>  
   
 ### Visitors😎
