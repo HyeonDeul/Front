@@ -1,19 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=H's%20Code&fontSize=100&animation=fadeIn&fontAlignY=38&desc=Welcome%20My%20GitHub%20Profile%20Page!&descAlignY=51&descAlign=62)
-<!-- <p align='center'> Welcome my Github page! /p> -->
-<!-- <p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
- -->
+<!-- github-readme-stats.vercel.app/api/top-langs/?username=HyeonSoo-Jeon&langs_count=3 -->
 
 ### 🍀My status🍀  
+</br>  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyeonSoo-Jeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonSoo-Jeon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+&nbsp;
 
 > ## My Infomations
 * Jeon Hyeon Soo
