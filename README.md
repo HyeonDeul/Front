@@ -4,8 +4,14 @@
 ### 🍀My status🍀  
 </br>  
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sop369)](https://solved.ac/sop369)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyeonSoo-Jeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonSoo-Jeon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 &nbsp;
 
@@ -25,10 +31,12 @@
 > <https://joinmycode.tistory.com/>  
 
 > ## Etc..
-> <img alt="instagram" src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_hansthoo_offaicial/"/></br>
+> <img alt="instagram" src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_hansthoo_offaicial/"/>
+> </br>
 > * <https://www.instagram.com/_hansthoo_official/>
 
-> <img alt="Email" src = "https://img.shields.io/badge/Email-FFFF09.svg?&style=flat&logo=gmail&logoColor=0D0D0D&link=sop369@kakao.com"/></br>
+> <img alt="Email" src = "https://img.shields.io/badge/Email-FFFF09.svg?&style=flat&logo=gmail&logoColor=0D0D0D&link=sop369@kakao.com"/>
+> </br>
 >* <sop369@kakao.com>  
   
 ### Visitors😎
