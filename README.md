@@ -57,41 +57,33 @@
 </br>
 
 <div align="center">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+</div>
+
+</br>
+
+<div align="center">
 <img alt="Git" src = "https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/> 
 <img alt="GitHub" src = "https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white"/>  
 </div>
 
 </br>
-
-# <div align="center"> 🔗 Blog 🔗 </div>
-
-</br>
 </br>
 
-#### <div align="center"> <https://joinmycode.tistory.com/> </div>
+# <div align="center"> 🔗 Contact Me! 🔗 </div>
 
 </br>
-</br>
 
-# <div align="center"> 🛎️ Etc.. 🛎️ </div>
-
-</br>
-</br>
-
-<div align="center">
-<img alt="instagram" src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_hansthoo_offaicial/"/> <https://www.instagram.com/_hansthoo_official/>
-
-<img alt="Email" src = "https://img.shields.io/badge/Email-FFFF09.svg?&style=flat&logo=gmail&logoColor=0D0D0D&link=sop369@kakao.com"/> <sop369@kakao.com>  
-</div>
-  
-[![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&link=https://www.naver.com](본인주소)
-
+<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat&logo=GitHub Sponsors&logoColor=white&link=https://joinmycode.tistory.com"/></a> 
+<a href="https://www.instagram.com/_hansthoo_official/"><img src= "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_hansthoo_official/">
+<a href="mailto:sop369@kakao.com"><img src="https://img.shields.io/badge/Email-FFFF09.svg?style=flat-&logo=Gmail&logoColor=white&link=mailto:sop369@kakao.com"/></a></p>
 
 </br>
 </br>
 </br>
+</br>
 
-### <div align="center"> Visitors😎</div>
+#### <div align="center"> Visitors😎</div>
 
 <div align="center">
   
