@@ -74,7 +74,7 @@
 
 </br>
 
-<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat&logo=GitHub Sponsors&logoColor=white&link=https://joinmycode.tistory.com"/></a> 
+<p align="center"><a href="https://https://joinmycode.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat&logo=GitHub Sponsors&logoColor=white&link=https://joinmycode.tistory.com"/></a> 
 <a href="https://www.instagram.com/_hansthoo_official/"><img src= "https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_hansthoo_official/">
 <a href="mailto:sop369@kakao.com"><img src="https://img.shields.io/badge/Email-FFFF09.svg?style=flat-&logo=Gmail&logoColor=white&link=mailto:sop369@kakao.com"/></a></p>
 
